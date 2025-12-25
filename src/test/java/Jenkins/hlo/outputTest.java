@@ -1,6 +1,6 @@
 package Jenkins.hlo;
 
-public class output {
+public class outputTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
