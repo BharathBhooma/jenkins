@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-25T12:04:19 IST" name="Default suite" finished-at="2025-12-25T12:04:24 IST" duration-ms="4968">
+  <suite started-at="2025-12-25T12:55:13 IST" name="Default suite" finished-at="2025-12-25T12:55:18 IST" duration-ms="5091">
     <groups>
     </groups>
-    <test started-at="2025-12-25T12:04:19 IST" name="Default test" finished-at="2025-12-25T12:04:24 IST" duration-ms="4968">
-      <class name="Jenkins.hlo.print">
-        <test-method is-config="true" signature="prin()[pri:0, instance:Jenkins.hlo.print@2f4948e4]" started-at="2025-12-25T12:04:19 IST" name="prin" finished-at="2025-12-25T12:04:24 IST" duration-ms="4686" status="PASS">
+    <test started-at="2025-12-25T12:55:13 IST" name="Default test" finished-at="2025-12-25T12:55:18 IST" duration-ms="5091">
+      <class name="Jenkins.hlo.AppTest">
+        <test-method is-config="true" signature="prin()[pri:0, instance:Jenkins.hlo.AppTest@765d7657]" started-at="2025-12-25T12:55:13 IST" name="prin" finished-at="2025-12-25T12:55:18 IST" duration-ms="4995" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prin -->
-        <test-method signature="launch()[pri:0, instance:Jenkins.hlo.print@2f4948e4]" started-at="2025-12-25T12:04:24 IST" name="launch" finished-at="2025-12-25T12:04:24 IST" duration-ms="17" status="PASS">
+        <test-method signature="launch()[pri:0, instance:Jenkins.hlo.AppTest@765d7657]" started-at="2025-12-25T12:55:18 IST" name="launch" finished-at="2025-12-25T12:55:18 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-      </class> <!-- Jenkins.hlo.print -->
+      </class> <!-- Jenkins.hlo.AppTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

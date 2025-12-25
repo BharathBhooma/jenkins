@@ -24,14 +24,6 @@
     <artifactId>selenium-java</artifactId>
     <version>4.31.0</version>
 </dependency>
-
-<dependency>
-    <groupId>io.github.bonigarcia</groupId>
-    <artifactId>webdrivermanager</artifactId>
-    <version>5.8.0</version>
-</dependency>
-
-
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
@@ -48,20 +40,6 @@
   </dependencies>
 
   <build>
-  <plugins>
-    <plugin>
-      <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-surefire-plugin</artifactId>
-      <version>3.0.0-M5</version> <!-- or your current version -->
-      <configuration>
-        <includes>
-          <include>**/*.java</include>
-        </includes>
-      </configuration>
-    </plugin>
-  </plugins>
-</>
-
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
