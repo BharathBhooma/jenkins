@@ -14,7 +14,7 @@ public class print {
     	driver = new EdgeDriver();	
         driver.get("https://office.com");
         System.out.println(driver.getTitle());
-        driver.quit();
+        
 
 	}
 	@Test

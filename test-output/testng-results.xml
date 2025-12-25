@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-24T15:49:47 IST" name="Default suite" finished-at="2025-12-24T15:49:50 IST" duration-ms="3450">
+  <suite started-at="2025-12-25T12:04:19 IST" name="Default suite" finished-at="2025-12-25T12:04:24 IST" duration-ms="4968">
     <groups>
     </groups>
-    <test started-at="2025-12-24T15:49:47 IST" name="Default test" finished-at="2025-12-24T15:49:50 IST" duration-ms="3450">
+    <test started-at="2025-12-25T12:04:19 IST" name="Default test" finished-at="2025-12-25T12:04:24 IST" duration-ms="4968">
       <class name="Jenkins.hlo.print">
-        <test-method is-config="true" signature="prin()[pri:0, instance:Jenkins.hlo.print@2f4948e4]" started-at="2025-12-24T15:49:47 IST" name="prin" finished-at="2025-12-24T15:49:50 IST" duration-ms="3384" status="PASS">
+        <test-method is-config="true" signature="prin()[pri:0, instance:Jenkins.hlo.print@2f4948e4]" started-at="2025-12-25T12:04:19 IST" name="prin" finished-at="2025-12-25T12:04:24 IST" duration-ms="4686" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prin -->
-        <test-method signature="launch()[pri:0, instance:Jenkins.hlo.print@2f4948e4]" started-at="2025-12-24T15:49:50 IST" name="launch" finished-at="2025-12-24T15:49:50 IST" duration-ms="8" status="PASS">
+        <test-method signature="launch()[pri:0, instance:Jenkins.hlo.print@2f4948e4]" started-at="2025-12-25T12:04:24 IST" name="launch" finished-at="2025-12-25T12:04:24 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
